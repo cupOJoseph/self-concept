@@ -24,3 +24,19 @@ Hackathons! D&D, Karota the monk.
 
 ### Spiritual
 I hiked 500 miles on the Appalachian because when you look out from a mountain that you just climbed, that is God. Transcendentalism.
+
+## Associations and roles
+
+Hackital.
+
+# Slides
+
+## American.
+I'm an American, I believe America is the greatest country in the world.
+I love my family, I'm the first person in my family to go to college, and I grew up being told that if I work hard I can achieve success.
+
+## Innovation
+Last year I won a research prize for my sustainable server cluster scheduling
+Building sustainable infrastructure is something worth doing that I'm passionate about.
+
+## 
