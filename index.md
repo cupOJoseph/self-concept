@@ -19,5 +19,8 @@ Most of my time goes to [Hackital](hackital.io), a hackathon in the capital.
 
 
 <br>
+<br>
+<br>
+<br>
 ### Keep up with Joseph
 Follow me on [twitter](twitter.com/cupojoseph) or [github](github.com/jschiarizzi)
