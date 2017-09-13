@@ -1,3 +1,7 @@
+Communication Class.
+
+Joseph Schiarizzi
+
 ## American.
 I'm an American, I believe America is the greatest country in the world.
 I love my family, I'm the first person in my family to go to college, and I grew up being told that if I work hard I can achieve success.
@@ -11,4 +15,9 @@ Individuals have the power to change the world.  It starts with curiosity and le
 Here are some of the things I've built this year: 3d Printer, my computer, cool LED things
 
 ## Hackital
-Most of my time goes to Hackital, a hackathon in the capital.
+Most of my time goes to [Hackital](hackital.io), a hackathon in the capital.
+
+
+
+### Keep up with Joseph
+Follow me on [twitter](twitter.com/cupojoseph) or [github](github.com/jschiarizzi)
