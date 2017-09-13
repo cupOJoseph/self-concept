@@ -18,6 +18,6 @@ Here are some of the things I've built this year: 3d Printer, my computer, cool 
 Most of my time goes to [Hackital](hackital.io), a hackathon in the capital.
 
 
-
+<br>
 ### Keep up with Joseph
 Follow me on [twitter](twitter.com/cupojoseph) or [github](github.com/jschiarizzi)
