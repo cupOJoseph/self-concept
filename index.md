@@ -4,7 +4,8 @@ Joseph Schiarizzi
 
 ## American.
 I'm an American, I believe America is the greatest country in the world.
-I love my family, I'm the first person in my family to go to college, and I grew up being told that if I work hard I can achieve success.
+Family, Hard work leads to success
+Northeast conservative
 
 
 ### Material
@@ -24,9 +25,5 @@ Here are some of the things I've built this year: 3d Printer, my computer, cool 
 Most of my time goes to [Hackital](hackital.io), a hackathon in the capital.
 
 
-<br>
-<br>
-<br>
-<br>
-### Keep up with Joseph
+## Keep up with Joseph
 Follow me on [twitter](twitter.com/cupojoseph) or [github](github.com/jschiarizzi)
