@@ -17,8 +17,10 @@ Sleepi Pi - GW Research Days 2017
 
 
 ### Personal
+
 **Material**
-![new venture head shot](https://newventure.gwu.edu/sites/newventure.gwu.edu/files/image/New_Venture_UP_2017_WLA_0068.jpg)
+
+![new venture head shot](https://newventure.gwu.edu/sites/newventure.gwu.edu/files/image/New_Venture_UP_2017_WLA_0068.jpg "go away")
 
 My Printer
 ![printer](https://i.imgur.com/SBKmszn.jpg)
