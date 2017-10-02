@@ -22,11 +22,11 @@ Sleepi Pi - GW Research Days 2017
 
 ![new venture head shot](https://newventure.gwu.edu/sites/newventure.gwu.edu/files/image/New_Venture_UP_2017_WLA_0068.jpg "go away")
 
-My Printer
+My Printer & tech
 ![printer](https://i.imgur.com/SBKmszn.jpg)
 
 **Social**
-
+![rs3](https://github.com/jschiarizzi/self-concept/blob/gh-pages/rs3.png?raw=true)
 
 **Spiritual**
 
