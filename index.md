@@ -16,7 +16,7 @@ Sleepi Pi - GW Research Days 2017
 ![server rack](https://i.imgur.com/Nki7i1i.jpg "a thing")
 
 
-### Personal
+### Myself
 
 **Material**
 <br>
@@ -30,6 +30,7 @@ My Printer & tech
 ![rs3](https://github.com/jschiarizzi/self-concept/blob/gh-pages/rs3.png?raw=true)
 
 **Spiritual**
+
 Transcendentalism
 <br>
 ![rs3](https://github.com/jschiarizzi/self-concept/blob/gh-pages/backpack.jpg?raw=true)
@@ -37,12 +38,20 @@ Transcendentalism
 
 
 
-## BUILD
-Individuals have the power to change the world.  It starts with curiosity and learning how to build.
-Here are some of the things I've built this year: 3d Printer, my computer, cool LED things
+## Associations
 
-## Hackital
-Most of my time goes to [Hackital](hackital.io), a hackathon in the capital.
+I'm a Hacker.
+
+![rs3](https://github.com/jschiarizzi/self-concept/blob/gh-pages/mlhstickers.jpg?raw=true)
+
+Hackital.io
+
+![rs3](https://github.com/jschiarizzi/self-concept/blob/gh-pages/hackitalpeople.jpg?raw=true)
+
+
+
+
+## Traits & Labels
 
 
 ## Keep up with Joseph
