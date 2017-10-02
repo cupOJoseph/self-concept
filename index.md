@@ -4,18 +4,29 @@ Joseph Schiarizzi
 
 ## American.
 I'm an American, I believe America is the greatest country in the world.
-Family, Hard work leads to success
-Northeast conservative
+Family is most important. Hard work leads to success
+New venture, individuals can change the world, innovation.
+
+GW NVC 2017
+![fourth wave logo](https://raw.githubusercontent.com/jschiarizzi/self-concept/gh-pages/4ws_logo.png)
+![pitch picture](https://github.com/jschiarizzi/self-concept/blob/gh-pages/newventurepitch.jpg?raw=true)
 
 
-### Material
-Sleepi Pi
+Sleepi Pi - GW Research Days 2017
 ![server rack](https://i.imgur.com/Nki7i1i.jpg "a thing")
+
+
+### Personal
+**Material**
+![new venture head shot](https://newventure.gwu.edu/sites/newventure.gwu.edu/files/image/New_Venture_UP_2017_WLA_0068.jpg)
 
 My Printer
 ![printer](https://i.imgur.com/SBKmszn.jpg)
-Social
-Spiritual
+
+**Social**
+
+
+**Spiritual**
 
 ## BUILD
 Individuals have the power to change the world.  It starts with curiosity and learning how to build.
