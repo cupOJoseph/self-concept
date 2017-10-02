@@ -19,16 +19,23 @@ Sleepi Pi - GW Research Days 2017
 ### Personal
 
 **Material**
-
+<br>
 ![new venture head shot](https://newventure.gwu.edu/sites/newventure.gwu.edu/files/image/New_Venture_UP_2017_WLA_0068.jpg "go away")
 
 My Printer & tech
 ![printer](https://i.imgur.com/SBKmszn.jpg)
 
 **Social**
+<br>
 ![rs3](https://github.com/jschiarizzi/self-concept/blob/gh-pages/rs3.png?raw=true)
 
 **Spiritual**
+Transcendentalism
+<br>
+![rs3](https://github.com/jschiarizzi/self-concept/blob/gh-pages/backpack.jpg?raw=true)
+![walden](https://images-na.ssl-images-amazon.com/images/I/51qpuQJG8CL._SY344_BO1,204,203,200_.jpg)
+
+
 
 ## BUILD
 Individuals have the power to change the world.  It starts with curiosity and learning how to build.
