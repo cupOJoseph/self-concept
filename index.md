@@ -7,7 +7,7 @@ I'm an American, I believe America is the greatest country in the world.
 Family is most important. Hard work leads to success
 New venture, individuals can change the world, innovation.
 
-GW NVC 2017
+GW NVC 2017 & [Fourth Wave](Fourthwavestudios.com)
 ![fourth wave logo](https://raw.githubusercontent.com/jschiarizzi/self-concept/gh-pages/4ws_logo.png)
 ![pitch picture](https://github.com/jschiarizzi/self-concept/blob/gh-pages/newventurepitch.jpg?raw=true)
 
