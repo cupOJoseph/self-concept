@@ -10,7 +10,7 @@ Northeast conservative
 
 ### Material
 Sleepi Pi
-![server rack](https://i.imgur.com/Nki7i1i.jpg)
+![server rack](https://i.imgur.com/Nki7i1i.jpg "a thing")
 
 My Printer
 ![printer](https://i.imgur.com/SBKmszn.jpg)
