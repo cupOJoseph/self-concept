@@ -49,10 +49,12 @@ Hackital.io
 ![rs3](https://github.com/jschiarizzi/self-concept/blob/gh-pages/hackitalpeople.jpg?raw=true)
 
 
-
-
 ## Traits & Labels
+- Adventurous
+- Curious
+- Passionate
 
+![farmer](https://github.com/jschiarizzi/self-concept/blob/gh-pages/farmer.jpg?raw=true)
 
 ## Keep up with Joseph
-Follow me on [twitter](twitter.com/cupojoseph) or [github](github.com/jschiarizzi)
+Follow me on [twitter @ CupOjoseph](http://twitter.com/cupojoseph) or [github](github.com/jschiarizzi)
